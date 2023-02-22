@@ -43,16 +43,16 @@ const Section = () => {
             <span></span>
             <div className="content">
               <h2>Portfolio</h2>
-              <a href="https://github.com/Dragoverlord/resume" target="_blank">
+              <a href="https://dragoverlord.github.io/resume/" target="_blank">
                 Моя первая работа
               </a>
               <a
-                href="https://dragoverlord.github.io/Task-work/"
+                href="https://github.com/Dragoverlord/React-Hackaton-Team"
                 target="_blank"
               >
                 Моя вторая работа
               </a>
-              <a href="#">Моя третия работа</a>
+              <a href="https://github.com/Dragoverlord/Fullstack-Frontend">Моя третия работа</a>
               <a href="https://github.com/Dragoverlord" target="_blank">
                 Git Hub
               </a>

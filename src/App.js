@@ -10,6 +10,18 @@ import { BrowserRouter } from "react-router-dom";
 import MainRouter from "./MainRouter";
 
 const App = () => {
+  
+  function idiots() {
+    let unoob = "Global Elite = Noobs"
+    try {
+      console.log(unoob);
+    } catch (error) {
+      console.log(error);
+    }
+  }
+
+  idiots()
+
   return (
     <div>
       <BrowserRouter>

@@ -47,7 +47,7 @@ const Skills = () => {
           </a>
         </div>
         <div className="container4">
-          <div className="skills js">65%</div>
+          <div className="skills js">73%</div>
         </div>
         <div className="links2">
           <a href="#">
@@ -59,7 +59,7 @@ const Skills = () => {
           </a>
         </div>
         <div className="container4">
-          <div className="skills php">60%</div>
+          <div className="skills react">90%</div>
         </div>
         <div className="links2">
           <a id="communication" href="#">
