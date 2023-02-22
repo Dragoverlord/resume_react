@@ -43,7 +43,7 @@ const Section = () => {
             <span></span>
             <div className="content">
               <h2>Portfolio</h2>
-              <a href="https://dragoverlord.github.io/resume/" target="_blank">
+              <a href="https://github.com/Dragoverlord/resume_react" target="_blank">
                 Моя первая работа
               </a>
               <a
